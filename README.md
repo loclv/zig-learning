@@ -24,5 +24,5 @@ On vscode, install `Zig Language` extension.
 ## Run
 
 ```bash
-zig run structure.zig
+zig run 001-structure.zig
 ```
